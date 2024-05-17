@@ -121,8 +121,9 @@ while 1:
     print()
 ```
 
+## Output:
+![328375325-ec2254d6-93ea-455a-98a6-732f40e0cce4](https://github.com/Charanteja-01/ChatStudy/assets/145693038/13a92040-b6ee-445f-ad5a-3d5f156e6c66)
+
 ## Result:
 
-Thus the study on Client Server Chat Applications has been performed
-
-![328375325-ec2254d6-93ea-455a-98a6-732f40e0cce4](https://github.com/Charanteja-01/ChatStudy/assets/145693038/13a92040-b6ee-445f-ad5a-3d5f156e6c66)
+Thus the study on Client Server Chat Applications has been performed.
